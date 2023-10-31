@@ -12,20 +12,7 @@ Recently, I embarked on a journey in data science. I'm currently pursuing an MBA
 
 ## 🛠 Skills
 
-- ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-- ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-- ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
-- ![Lookerstudio Logo](https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white)
-- ![Tableau Logo](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-- ![Google Analytics Logo](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white)
-- ![WordPress Logo](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-
-## 🔍 Where I've Lived and Studied
-
-- 🇨🇱 Chile
-- 🇧🇷 Brazil
-- 🇪🇸 Spain
+- ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) ![Lookerstudio Logo](https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white) ![Tableau Logo](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Google Analytics Logo](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white) ![WordPress Logo](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
 ## 🔗 Social Media & More
 
