@@ -19,10 +19,6 @@ Recently, I embarked on a journey in data science. I'm currently pursuing an MBA
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adanusk/)
 - 📧 [Email](mailto:adanusk@gmail.com)
 
-## 📈 GitHub Stats
-
-[![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adanusk)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 💼 Let's connect and collaborate. Feel free to drop me a message!
